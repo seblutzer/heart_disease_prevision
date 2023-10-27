@@ -8,8 +8,8 @@ O sistema de previsão foi construído utilizando a linguagem de programação P
 
 O projeto inclui:
 
-Um notebook Jupyter interativo que demonstra a construção e treinamento do modelo.
-Uma interface de usuário amigável onde os usuários podem inserir seus dados para receber uma previsão personalizada.
-Este projeto visa fornecer uma ferramenta simples e útil para ajudar as pessoas a entender melhor sua saúde cardíaca e tomar medidas preventivas, se necessário. Esperamos que este projeto seja útil e informativo.
+* Um notebook Jupyter interativo que demonstra a construção e treinamento do modelo.
+* Uma interface de usuário amigável onde os usuários podem inserir seus dados para receber uma previsão personalizada.
+* Este projeto visa fornecer uma ferramenta simples e útil para ajudar as pessoas a entender melhor sua saúde cardíaca e tomar medidas preventivas, se necessário. Esperamos que este projeto seja útil e informativo.
 
 ![Imagem gerada por DALL-E 3](https://github.com/seblutzer/heart_disease_prevision/assets/114627479/28b86112-07de-4216-90ce-17a928d2fd93)
